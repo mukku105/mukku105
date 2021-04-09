@@ -1,4 +1,17 @@
 ### Konnichiwa! This is Muksam Limboo 👋.
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/muksam-limboo/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/itsnotzimboo/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:muksoft1234compt@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://fb.com/muksam.limboo.9">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <!--
 **mukku105/mukku105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
