@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<hr>
+<br>
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukku105&show_icons=true)
