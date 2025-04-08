@@ -6,6 +6,7 @@
 <a target="_blank" href="mailto:muksoft1234compt@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<hr>
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukku105&show_icons=true)
