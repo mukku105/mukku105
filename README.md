@@ -4,8 +4,9 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:muksoft1234compt@gmail.com">
-  <img align="left" alt="Gmail" width="22px" style="color: red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukku105&show_icons=true)
 
